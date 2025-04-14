@@ -7,3 +7,7 @@ export const printHello = async () => {
 export const printStatus = async () => {
     console.log("testing");
 }
+
+export const printMsg = async (msg) => {
+    console.log(msg);
+}
