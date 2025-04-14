@@ -1,3 +1,2 @@
-mirror_repo: AbdullahSharif/repo_for_gh_app_test
-mirror_file_path: from-repo-a.md  # the path where you want to create a new file in repo B.
-base_branch: master # from which the new branch needs to be checked out.
+mirror_repo: slashml/magemaker_docs
+base_branch: main
