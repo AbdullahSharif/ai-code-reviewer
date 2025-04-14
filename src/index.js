@@ -11,3 +11,7 @@ export const printStatus = async () => {
 export const printMsg = async (msg) => {
     console.log(msg);
 }
+
+export const testFunc = async (msg) => {
+    console.log(msg);
+}
